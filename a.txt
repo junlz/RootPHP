@@ -1,1 +1,3 @@
-ßÀßÀßÀ
+<?php
+echo 'eeeeee';
+?>
