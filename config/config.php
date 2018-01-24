@@ -3,7 +3,7 @@
 return [
 	'db_host' 	=>	'127.0.0.1',
 	'db_user' 	=>	'root',
-	'db_pwd' 	=>	'',
+	'db_pwd' 	=>	'root',
 	'db_name' 	=>	'labframe',
 	'db_table_prefix' 	=>	'lab_',
 	'db_charset' 	=>	'utf8',
