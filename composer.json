@@ -1,0 +1,35 @@
+{
+  "name": "junlz/rootphp",
+  "description": "Simple and lightweight PHP framework",
+  "type": "project",
+  "keywords": [
+    "framework",
+    "rootphp",
+    "mvc"
+  ],
+  "homepage": "http://www.junlz.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "gary",
+      "email": "lofcms@163.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.8.0"
+  },
+  "config": {
+    "preferred-install": "dist",
+    "platform": {
+      "php": "5.4"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "app"
+    }
+  }
+}
