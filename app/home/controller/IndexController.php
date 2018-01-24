@@ -1,6 +1,5 @@
 <?php 
 namespace home\controller;
-
 use core\traits\Jump;
 use core\Controller;
 /**

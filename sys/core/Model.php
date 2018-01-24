@@ -1,6 +1,5 @@
 <?php 
 namespace core;
-
 use core\Config;
 use PDO;
 
@@ -55,7 +54,6 @@ class Model
 	{
 		$this->db = null;
 	}
-
 	/*获得客户端真实的IP地址*/
 	function getip() {
 		if (getenv("HTTP_CLIENT_IP") && strcasecmp(getenv("HTTP_CLIENT_IP"), "unknown")) {
@@ -74,7 +72,6 @@ class Model
 					}
 		return ($ip);
 	}
-
 	public function save($data = [])
 	{
 		$keys = '';

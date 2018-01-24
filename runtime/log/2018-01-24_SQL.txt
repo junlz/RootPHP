@@ -1,0 +1,195 @@
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 13:59:11
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 13:59:20
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 13:59:27
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 13:59:30
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 13:59:31
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 13:59:31
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 13:59:32
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 13:59:33
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:07
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:09
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:17
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:18
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:18
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:19
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:19
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:20
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:21
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:21
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:22
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:22
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:22
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:37
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:55
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:56
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:56
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:56
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:57
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:57
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:57
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:57
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:58
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:58
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:58
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:58
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:59
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:59
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:59
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:00:59
+
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello','shiyanlou')
+客户IP:127.0.0.1
+时间 :2018-01-24 14:01:00
+
